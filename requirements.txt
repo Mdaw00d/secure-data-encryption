@@ -1,0 +1,3 @@
+streamlit>=1.44.1
+cryptography>=44.0.2
+cryptography-fernet>=0.1.0
